@@ -1,13 +1,13 @@
 const CONFIG = {
     introTitle: 'Shi ah!',
     introDesc: `Tui có điều muốn nói
-    
-    
-    `,
+    bạn nghe hết nha
+    hehe
+   heheheh ` ,
     btnIntro: 'hehe',
     title: 'Tui muốn cảm ơn bạn đã giúp tui mấy bài văn 😙',
     desc: 'Cảm ơn bạn rất nhìu ',
-    btnYes: 'Cảm ơn là đúng',
+    btnCó : 'Cảm ơn là đúng' ,
     btnNo: 'Không có gì :3',
     question:''Biết tại sao tui lại làm cái này khum',
     btnReply: 'Đoán i',
